@@ -1,4 +1,5 @@
 # Breast-Cancer-Detection
+Dataset: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
 This project focuses on breast cancer classification using deep learning techniques applied to ultrasound images. The dataset is first extracted and preprocessed, ensuring proper organization and labeling. The images are then split into training, validation, and test sets to facilitate model learning and evaluation. Data augmentation techniques are applied using TensorFlow's `ImageDataGenerator` to enhance the model's robustness. Additionally, exploratory data analysis (EDA) is conducted, including label distribution visualization and sample image previews, to better understand the dataset before training.
 
